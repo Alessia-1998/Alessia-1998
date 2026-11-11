@@ -1,31 +1,35 @@
-## Hi there 👋
-I'm a Computer Engineering graduate and currently an MSc student in Computer Engineering.
 
+<h1 align="center">Hi there! 👋 I'm Alessia</h1>
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css" />
+<h3 align="center">
+  💻 Computer Engineering Graduate | MSc Student
+</h3>
+
+<p align="center">
+  🧠 Algorithms | Big Data | Machine Learning
 </p>
 
-### ⚙️ Frameworks & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,thymeleaf" />
+---
+
+### 👩‍💻 About Me
+
+- 🎓 BSc in Computer Engineering
+- 📚 Currently pursuing an MSc degree
+- 💡 Passionate about technology, problem-solving and innovation
+- 🌱 Always curious to explore new technologies and develop new skills
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,spring,postgres,git&perline=8" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=github,docker,vscode,eclipse,windows,linux,unity&perline=8" />
 </p>
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" />
-</p>
 
-### 🔧 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,jupyter" />
-</p>
 
-### 🖥️ Operating Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,linux" />
-</p>
 
 
 <!--
