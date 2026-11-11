@@ -1,12 +1,18 @@
+ <!-- Profile banner -->
+<p align="center">
+  <img src="./assets/github-banner.png" width="100%" alt="Purple developer workspace banner" />
+</p>
 
-<h1 align="center">Hi there! 👋 I'm Alessia</h1>
+
+
+<h1 align="center">Hi there! I'm Alessia 👋</h1>
 
 <h3 align="center">
   💻 Computer Engineering Graduate | MSc Student
 </h3>
 
 <p align="center">
-  🧠 Algorithms | Big Data | Machine Learning
+  🧠 MSc in Algorithms, Big Data & Machine Learning
 </p>
 
 ---
